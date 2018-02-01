@@ -1,6 +1,10 @@
 ## Troubleshooting
 Checkout how to troubleshoot failures and collect debug logs: https://docs.microsoft.com/en-us/vsts/build-release/actions/troubleshooting
 
+``` js
+const count = records.length;
+```
+
 ## Environment
 - Server - VSTS or TFS on-premises?
     
